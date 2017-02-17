@@ -8,7 +8,7 @@ PHP Library to help working with Mapon API.
 Add this package to your project with composer
 
 ```
-composer install mapon-com/client-api-php-sdk
+composer require mapon-com/client-api-php-sdk
 ```
 
 ### Usage
